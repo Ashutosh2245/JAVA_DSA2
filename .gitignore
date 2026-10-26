@@ -1,0 +1,15 @@
+# IntelliJ IDEA files
+
+.idea/
+*.iml
+
+# Compiled Java files
+
+out/
+*.class
+
+# Build directories
+
+target/
+build/
+.gradle/
